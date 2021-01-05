@@ -1,2 +1,2 @@
 # eventos
-Web Service RESTful com Spring Boot, MySQL
+Web Service RESTful com Spring Boot, MySQL e Swagger
